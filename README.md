@@ -24,24 +24,40 @@ I care about clean systems design, meaningful abstractions, and shipping things 
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />](https://docs.python.org/3/)
+[<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="40" alt="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="40" alt="TypeScript" />](https://www.typescriptlang.org/docs/)
+[<img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" />](https://docs.oracle.com/en/java/)
+[<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" alt="C++" />](https://en.cppreference.com/w/)
 
 **AI & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=numpy&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="40" alt="NumPy" />](https://numpy.org/doc/)
 `LLM Integration` `RAG` `LangChain` `LangGraph` `Chroma Vector DB` `Pandas`
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" />](https://react.dev)
+[<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="Tailwind CSS" />](https://tailwindcss.com/docs)
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,mysql&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js" />](https://nodejs.org/en/docs)
+[<img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="Express.js" />](https://expressjs.com)
+[<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" alt="FastAPI" />](https://fastapi.tiangolo.com)
+[<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" alt="MongoDB" />](https://www.mongodb.com/docs/)
+[<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="40" alt="PostgreSQL" />](https://www.postgresql.org/docs/)
+[<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" />](https://dev.mysql.com/doc/)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,supabase&theme=dark)](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" />](https://git-scm.com/doc)
+[<img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" />](https://docs.github.com)
+[<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" />](https://learning.postman.com/docs/)
+[<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40" alt="Vercel" />](https://vercel.com/docs)
+[<img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="40" alt="Supabase" />](https://supabase.com/docs)
 
 ---
 
