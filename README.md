@@ -23,16 +23,25 @@ I care about clean systems design, meaningful abstractions, and shipping things 
 ### Stack
 
 **Languages**
-`Python` `JavaScript` `Java` `C++`
 
-**AI / ML**
-`LLM Integration` `RAG` `LangChain` `LangGraph` `Chroma Vector DB` `NumPy` `Pandas`
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp&theme=dark)](https://skillicons.dev)
 
-**Full-Stack**
-`React.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `PostgreSQL` `MySQL` `PostGIS`
+**AI & Data**
 
-**Tools & Infra**
-`Git` `GitHub Actions` `Postman` `Vercel` `Supabase` `Google Colab`
+[![My Skills](https://skillicons.dev/icons?i=numpy&theme=dark)](https://skillicons.dev)
+`LLM Integration` `RAG` `LangChain` `LangGraph` `Chroma Vector DB` `Pandas`
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,mysql&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,supabase&theme=dark)](https://skillicons.dev)
 
 ---
 
